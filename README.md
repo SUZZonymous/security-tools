@@ -59,7 +59,7 @@ python3 tools/exfil.py --test-mode
 
 ## 🤝 Contributors
 
-Special thanks to [@rusty_c2_operator](https://github.com/rusty_c2_operator) for infrastructure support and testing.
+Special thanks to [@rustyc2operator](https://github.com/rustyc2operator) for infrastructure support and testing.
 
 ## ⚠️ Legal Disclaimer
 
